@@ -8,4 +8,4 @@
 </a>
 
 ## Profile - Statics
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheWarez)](https://github.com/TheWarez/TheWarez)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheWarez)](https://github.com/anuraghazra/github-readme-stats)
