@@ -5,3 +5,6 @@
 ## Connect with me:
 <a href="https://twitter.com/WarezThe"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 </a>
+
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
+</a>
