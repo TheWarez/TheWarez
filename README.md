@@ -9,5 +9,7 @@
 
 ## Profile - Statics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWarez&layout=demo)](https://github.com/TheWarez/TheWarez)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarez&show_icons=true&theme=tokyonight)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheWarez&repo=TheWarez)](https://github.com/TheWarez/TheWarez)
