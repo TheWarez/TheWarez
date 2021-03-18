@@ -19,7 +19,7 @@
  
  </details>
 <details>
-  <summary> <b>[🌜] Languages and Operating Systems what use</b> </summary>
+  <summary> <b>[🌜] My Skill</b> </summary>
   <br>
     
 <h3>Operating Systems</h3>
