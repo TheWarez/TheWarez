@@ -16,3 +16,4 @@
  </a>
  
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+<i class="devicon-linkedin-plain colored"></i>
