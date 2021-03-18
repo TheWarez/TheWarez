@@ -9,3 +9,7 @@
 - The reason why I started studying programming was because from an early age I was interested in technology and learning new things, so programming was what caught my attention.
 ## Profile Static
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarez&show_icons=true&theme=tokyonight)
+
+## My Langs
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
