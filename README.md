@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-izidorio-86b903206/">
-  <img src="https://img.icons8.com/material/48/000000/linkedin--v3.png">
+  <img src="https://img.icons8.com/fluent/96/000000/linkedin-circled.png"/>
 </a>
 
 
