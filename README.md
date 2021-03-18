@@ -16,3 +16,9 @@
   
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png)
+![PYTHON](https://img.icons8.com/color/48/000000/python.png)
+![PHP](https://img.icons8.com/color/48/000000/php.png)
+![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)
+![WINDOWS](https://img.icons8.com/color/48/000000/windows-10.png)
+![UBUNTU](https://img.icons8.com/color/48/000000/ubuntu--v1.png)
