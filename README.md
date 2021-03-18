@@ -19,7 +19,7 @@
  
  </details>
 <details>
-  <summary> <b>[🌜]My Languages and Operating Systems what use</b> </summary>
+  <summary> <b>[🌜] Languages and Operating Systems what use</b> </summary>
   <br>
     
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
