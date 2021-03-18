@@ -12,6 +12,6 @@
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-izidorio-86b903206/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+  <img height="30" width="40" src="">
  </a>
 
