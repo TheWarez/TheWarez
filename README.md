@@ -1,4 +1,4 @@
-# The Warez👏
+# The Warez
 
 ## I'm Warez/Gabriel
 - My name is Gabriel, I'm 17 years old and I'm a junior developer. 🌛
@@ -17,5 +17,6 @@
 <a href="https://www.linkedin.com/in/gabriel-izidorio-86b903206/">
   <img src="https://img.icons8.com/fluent/96/000000/linkedin-circled.png"/>
 </a>
+
 
 
