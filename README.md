@@ -31,7 +31,8 @@
 
 <details>
 	<summary><b> My social media </b></summary>
- 
+ <br>
+	
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1ca0f1?style=social&logo=Linkedin)](https://www.linkedin.com/in/gabriel-izidorio-86b903206/) <br>
 [![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=social&logo=Telegram)](https://t.me/TheWarezOfc) <br>
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=social&logo=Twitter)](https://twitter.com/WarezThe) <br>
