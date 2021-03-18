@@ -1,7 +1,7 @@
 # The Warez <img src="https://github.com/luc4sd3v/luc4sd3v/blob/main/wave.gif" width="40px">
 <Redes Sociais>
   
-## I'm Warez/Gabriel
+## [🙍‍♂️] About Me
 
  - My name is Gabriel, I'm 17 years old and I'm a junior developer.
  - I am currently studying: PHP, JS, NodeJS.
@@ -15,7 +15,7 @@
  
  </details>
 <details>
-  <summary> <b>[🌜]My Languages and Operating Systems what use</b> <i> click here to expand </i> </summary>
+  <summary> <b>[🌜]My Languages and Operating Systems what use</b> </summary>
   <br>
     
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
