@@ -1,7 +1,7 @@
 # The Warez
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https:https://twitter.com/WarezThe)](https://twitter.com/WarezThe)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/TheWarezOfc)](https://t.me/TheWarezOfc)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-izidorio-86b903206/)](https://www.linkedin.com/in/gabriel-izidorio-86b903206/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https:https://twitter.com/WarezThe)](https://twitter.com/WarezThe)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=black&link=https://t.me/TheWarezOfc)](https://t.me/TheWarezOfc)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/gabriel-izidorio-86b903206/)](https://www.linkedin.com/in/gabriel-izidorio-86b903206/)
 ## I'm Warez/Gabriel
 - My name is Gabriel, I'm 17 years old and I'm a junior developer. 🌛
 - I am currently studying: PHP, JS, NodeJS.
