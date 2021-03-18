@@ -22,15 +22,29 @@
   <summary> <b>[🌜] Languages and Operating Systems what use</b> </summary>
   <br>
     
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png)
-![PYTHON](https://img.icons8.com/color/48/000000/python.png)
-![PHP](https://img.icons8.com/color/48/000000/php.png)
-![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)
-![WINDOWS](https://img.icons8.com/color/48/000000/windows-10.png)
-![UBUNTU](https://img.icons8.com/color/48/000000/ubuntu--v1.png)
-
+<h3>Operating Systems</h3>
+		<center>
+			<img alt="Android" src="https://img.shields.io/badge/Google-Android-3DDC84?style=for-the-badge&logo=Android">&nbsp;
+			<img alt="CentOS" src="https://img.shields.io/badge/Project%20CentOS-CentOS-262577?style=for-the-badge&logo=CentOS">&nbsp;
+			<img alt="Debian" src="https://img.shields.io/badge/Project%20Debian-Debian-A81D33?style=for-the-badge&logo=Debian">&nbsp;
+			<img alt="Kali Linux" src="https://img.shields.io/badge/Offensive%20Security-Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux">&nbsp;
+			<img alt="Linux" src="https://img.shields.io/badge/GNU-Linux-FCC624?style=for-the-badge&logo=Linux">&nbsp;
+			<img alt="Windows" src="https://img.shields.io/badge/Microsoft-Windows-0078D6?style=for-the-badge&logo=Windows">&nbsp;
+		</center>
+	<h3>Coding</h3>
+		<center>
+			<!--<img alt="Assembly" src="https://img.shields.io/badge/Language-Assembly%20x86_64-654FF0?style=for-the-badge&logo=Assembly">&nbsp;-->
+			<img alt="C" src="https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=C">&nbsp;
+			<img alt="CSS" src="https://img.shields.io/badge/Language-CSS-1572B6?style=for-the-badge&logo=CSS3">&nbsp;
+			<!--<img alt="C++" src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B">&nbsp;-->
+			<img alt="Git" src="https://img.shields.io/badge/Technology-Git-F05032?style=for-the-badge&logo=Git">&nbsp;
+			<img alt="HTML" src="https://img.shields.io/badge/Language-HTML-E34F26?style=for-the-badge&logo=HTML5">&nbsp;
+			<img alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript">&nbsp;
+			<img alt="Python" src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=Python">&nbsp;
+			<!--<img alt="Ruby" src="https://img.shields.io/badge/Language-Ruby-CC342D?style=for-the-badge&logo=Ruby">&nbsp;-->
+			<img alt="Shell Script" src="https://img.shields.io/badge/Language-Shell%20Script-4EAA25?style=for-the-badge&logo=GNU%20Bash">&nbsp;
+			<img alt="TypeScript" src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=TypeScript">&nbsp;
+		</center>
 </details>
 
 <details>
