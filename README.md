@@ -45,6 +45,11 @@
 			<img alt="Shell Script" src="https://img.shields.io/badge/Language-Shell%20Script-4EAA25?style=for-the-badge&logo=GNU%20Bash">&nbsp;
 			<img alt="TypeScript" src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=TypeScript">&nbsp;
 		</center>
+          <h3>Hacking</h3>
+	        <li> Pentest </li>
+		<li>📟 Hardware/Electronic</li>
+		<li>📶 Networking</li>
+		<li>🧭 Web Hacking</li>
 </details>
 
 <details>
