@@ -12,7 +12,7 @@
  - The reason why I started studying programming was because from an early age I was interested in technology and learning new things, so programming was what caught my attention.
 </details>
 <details>
-  <summary> <b>[📉]Static-Profile</b> </summary>
+  <summary> <b>[📉] Static-Profile</b> </summary>
   <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarez&show_icons=true&theme=tokyonight)
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-	<summary><b> [📧]My social media </b></summary>
+	<summary><b> [📧] My social media </b></summary>
  <br>
 	
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1ca0f1?style=social&logo=Linkedin)](https://www.linkedin.com/in/gabriel-izidorio-86b903206/) <br>
