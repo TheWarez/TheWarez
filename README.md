@@ -1,4 +1,4 @@
-# The Warez
+# The Warez <img src="https://github.com/luc4sd3v/luc4sd3v/blob/main/wave.gif" width="40px">
 <Redes Sociais>
   
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https:https://twitter.com/WarezThe)](https://twitter.com/WarezThe)
