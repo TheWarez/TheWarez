@@ -2,6 +2,8 @@
 <Redes Sociais>
 
 <details>
+<br>
+
   <summary> <b> [🙍‍♂️] About Me <b> </summary>
 
  - My name is Gabriel, I'm 17 years old and I'm a junior developer.
@@ -11,7 +13,8 @@
 </details>
 <details>
   <summary> <b>[📉]Static-Profile</b> </summary>
-  
+  <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarez&show_icons=true&theme=tokyonight)
  
  </details>
