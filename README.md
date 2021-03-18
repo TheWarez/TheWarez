@@ -1,4 +1,6 @@
 # The Warez
+<Redes Sociais>
+  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https:https://twitter.com/WarezThe)](https://twitter.com/WarezThe)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/TheWarezOfc)](https://t.me/TheWarezOfc)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-izidorio-86b903206/)](https://www.linkedin.com/in/gabriel-izidorio-86b903206/)
@@ -13,8 +15,8 @@
 <details>
   <summary> <b> My Languages and Operating Systems what use</b> <i> click here to expand </i> </summary>
   <br>
-  
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+    
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png)
 ![PYTHON](https://img.icons8.com/color/48/000000/python.png)
