@@ -10,6 +10,9 @@
 ## Profile Static
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarez&show_icons=true&theme=tokyonight)
 
-## My Langs
+<details>
+  <summary> <b> My Languages and Operating Systems what use</b> <i> click here to expand </i> </summary>
+  <br>
+  
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
