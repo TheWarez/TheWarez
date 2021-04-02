@@ -1,5 +1,4 @@
-# The Warez <img src="https://github.com/luc4sd3v/luc4sd3v/blob/main/wave.gif" width="40px">
-<Redes Sociais>
+# The Warez
 
 <details>
 <br>
